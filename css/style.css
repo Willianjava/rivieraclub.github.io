@@ -171,8 +171,9 @@ ul.nav.navbar-nav li{
 .banner{
 	background:url(../images/bnr3.jpg) no-repeat 0px 0px;
 	background-size:cover;
-	min-height:450px;
+	min-height:500px;
 	position:relative;
+	
 }
 .package{
 	 background:rgba(253, 115, 100, 0.68);
